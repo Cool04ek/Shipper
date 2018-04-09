@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shipper</string>
+
+    <string name="action_favorite">Favorite</string>
+    <string name="action_search">Search</string>
+
+    <string name="weight_pattern">%.2f tons</string>
+
+</resources>
